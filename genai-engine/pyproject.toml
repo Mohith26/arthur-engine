@@ -17,7 +17,7 @@ dependencies = [
   "sse-starlette==3.6.0",
   "fastapi-sqlalchemy==0.2.1",
   "alembic==1.20.1",
-  "boto3==1.43.122",
+  "boto3==1.43.123",
   "python-dotenv==1.2.4",
   "psycopg2-binary==2.9.13",
   # Held below 2.1: opentelemetry-instrumentation-sqlalchemy (every release through 0.66b1)
@@ -87,7 +87,7 @@ dependencies = [
   "google-cloud-aiplatform>=1.38",
   "google-cloud-trace>=1.11.0,<2",
   "opentelemetry-semantic-conventions>=0.65b0,<0.66",
-  "arthur-client==1.4.2961",
+  "arthur-client==1.4.2965",
 ]
 
 [project.scripts]
